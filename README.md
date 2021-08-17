@@ -1,3 +1,5 @@
+![alt text](https://github.com/bakharaalief/bakharaalief/blob/main/img/cover.png?raw=true)
+
 # Hi, I'm Bakhara Alief :wave:
 
 - :round_pushpin: I'm CS student in **Jakarta, Indonesia :indonesia:**
