@@ -12,6 +12,6 @@
 - Linkedin : https://www.linkedin.com/in/m-bakhara-alief-rachman-6a4a70182
 - Email : ara.bakhara12@gmail.com
 
-### :mailbox: **Get In Touch**
+### :battery: **Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakharaalief&show_icons=true&theme=algolia)
