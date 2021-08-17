@@ -6,9 +6,11 @@
 - :telescope: Currently developing app in **Bakhdev**
 - :iphone: Learning all about **Mobile Developer**
 - ⚡ Fun fact: My first line of code was **"Bakhara Handsome!"**
+-
 
 ### :mailbox: **Get In Touch**
 
+- instagram : https://www.instagram.com/bakhdev
 - Github : https://github.com/bakharaalief
 - Medium : https://ara-bakhara12.medium.com
 - Linkedin : https://www.linkedin.com/in/m-bakhara-alief-rachman-6a4a70182
