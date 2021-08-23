@@ -11,7 +11,8 @@
 
 ### :mailbox: **Get In Touch**
 
-- instagram : https://www.instagram.com/bakhdev
+- Bakhdev : https://play.google.com/store/apps/developer?id=bakhdev
+- Instagram : https://www.instagram.com/bakhdev
 - Github : https://github.com/bakharaalief
 - Medium : https://ara-bakhara12.medium.com
 - Podcast : https://open.spotify.com/show/17rrKQqwlpeWmtpOBm44HW
