@@ -22,3 +22,5 @@
 ### :battery: **Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakharaalief&show_icons=true&theme=algolia)
+
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bakharaalief&theme=algolia)
