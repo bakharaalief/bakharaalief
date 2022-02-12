@@ -11,13 +11,11 @@
 
 ### :mailbox: **Get In Touch**
 
-- Bakhdev : https://play.google.com/store/apps/developer?id=bakhdev
-- Instagram : https://www.instagram.com/bakhdev
-- Github : https://github.com/bakharaalief
-- Medium : https://ara-bakhara12.medium.com
-- Podcast : https://open.spotify.com/show/17rrKQqwlpeWmtpOBm44HW
-- Linkedin : https://www.linkedin.com/in/m-bakhara-alief-rachman-6a4a70182
-- Email : ara.bakhara12@gmail.com
+- [Bakhdev](https://play.google.com/store/apps/developer?id=bakhdev)
+- [Instagram](https://www.instagram.com/bakhdev)
+- [Medium](https://ara-bakhara12.medium.com)
+- [Podcast](https://open.spotify.com/show/17rrKQqwlpeWmtpOBm44HW)
+- [Linkedin](https://www.linkedin.com/in/m-bakhara-alief-rachman-6a4a70182)
 
 ### :battery: **Stats**
 
