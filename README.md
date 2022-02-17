@@ -15,7 +15,7 @@
 - [Instagram](https://www.instagram.com/bakhdev)
 - [Medium](https://ara-bakhara12.medium.com)
 - [Podcast](https://open.spotify.com/show/17rrKQqwlpeWmtpOBm44HW)
-- [Linkedin](https://www.linkedin.com/in/m-bakhara-alief-rachman-6a4a70182)
+- [Linkedin](https://www.linkedin.com/in/bakharaalief/)
 
 ### :battery: **Stats**
 
