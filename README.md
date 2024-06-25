@@ -2,7 +2,7 @@
 
 # Hi, I'm Bakhara Alief :wave:
 
-- :round_pushpin: I'm CS student in **Jakarta, Indonesia :indonesia:**
+- :round_pushpin: I'm Mobile Developer in **Jakarta, Indonesia :indonesia:**
 - :telescope: Currently developing app in **Bakhdev**
 - :iphone: Learning all about **Mobile Developer**
 - :studio_microphone: Create podcast **Alief Ba Ha Ra**
